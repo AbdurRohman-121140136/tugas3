@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_skill">
+        <item>C++</item>
+        <item>C#</item>
+        <item>Flutter</item>
+        <item>HTML</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>php</item>
+        <item>Python</item>
+        <item>CSS</item>
+        <item>MySql</item>
+    </string-array>
+
+    <integer-array name="array_image">
+        <item>@drawable/cpp</item>
+        <item>@drawable/csharp</item>
+        <item>@drawable/flutter</item>
+        <item>@drawable/html</item>
+        <item>@drawable/js</item>
+        <item>@drawable/kotlin</item>
+        <item>@drawable/php</item>
+        <item>@drawable/python</item>
+        <item>@drawable/css</item>
+        <item>@drawable/mysql</item>
+    </integer-array>
+
+
+</resources>
+
+
+
